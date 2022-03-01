@@ -1,0 +1,37 @@
+body {
+ background-color: darkcyan;
+}
+h1 {
+	color: palegoldenrod;
+
+}
+p{
+color: whitesmoke;
+text-align: start;
+}
+p{
+font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+font-size: 40px;
+}
+#estilopropio {
+color: #FFFF;
+}
+
+.clase-cinco {
+color: darkviolet;
+}
+
+.anotherstyle{
+color:darkblue;
+text-align: center;
+}
+
+p.azulado{
+color: orange;
+}
+
+.clase-seis{
+    color: crimson;
+    font-family: verdana;
+     font-size: 20px;
+    }
